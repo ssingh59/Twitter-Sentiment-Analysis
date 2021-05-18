@@ -1,1 +1,3 @@
 # Twitter-Sentiment-Analysis
+
+Tweets often express sentiments but they may be a pain to prepare for text mining. If you do use tweets, it is best to restrict yourself to an single hash tag. Review collections are available from Google and other sources; restrict yourself to one class of products, like movies, or services, such as restaurants.  Find a corpus and try to tag the reviews/tweets as at least positive/favorable and negative/unfavorable, and/or additional categories such as neutral or on some scale like 1 to 5, where 1 is most negative and 5 most positive.  Count positive/negative words and sentiment shifters to provide an overall sentiment of each review/tweet.  
